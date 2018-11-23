@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-title: AI # your site title
-author: Majeed Hussain # You :P
+title: Sleek # your site title
+author: GitHub User # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/AI" # the subpath of your site, e.g. /blog
+baseurl: "/sleek" # the subpath of your site, e.g. /blog
 url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  A year spent in artificial intelligence is enough to make one believe in God.
+  Modern Jekyll theme focused on speed performance &amp; SEO best practices
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 

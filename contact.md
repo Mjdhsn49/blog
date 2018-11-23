@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-You can contact me through [majeedhussain49@gmail.com](majeedhussain49@gmail.com)
+You can contact me through gmail:[majeedhussain49@gmail.com](majeedhussain49@gmail.com)
 
 ### Orelse you can contact me by filling the below form
 

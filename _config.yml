@@ -69,4 +69,6 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-Jupyter Notebook
+  - jekyll-jupyter-notebook
+ 
+theme: jekyll-sleek
